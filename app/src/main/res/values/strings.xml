@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Atlas App</string>
+    <string name="login.message.email">Email address</string>
+    <string name="login.message.password">Password</string>
+    <string name="login.button.signIn">Sign In</string>
+    <string name="login.button.signUp">Sign Up</string>
+    <string name="login.error.message.signIn">Unable to start session %s</string>
+    <string name="login.error.message.signUp">Unable to register new user %s</string>
+    <string name="login.notice.message.signUp">User successfully registered</string>
+    <string name="contactList.menu.action.signOff">Sign out</string>
+    <string name="contactList.title">Contacts</string>
+
+    <string name="facebook_app_id">682916101911493</string> <!-- DONT? -->
+    <string name="fb_login_protocol_scheme">fb682916101911493</string> <!-- DONT? -->
+    <string name="main.menu.action.logout">Logout</string>
+    <string name="facebook_login_button_text">Login with Facebook</string>
+    <string name="facebook_logout_button_text">Logout</string>
+    <string name="login_cancelled">The login was cancelled</string>
+    <string name="login_error_message">Could not start session: %s</string>
+
+</resources>

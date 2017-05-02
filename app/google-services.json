@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "204014137360",
+    "firebase_url": "https://atlas-app-b0a50.firebaseio.com",
+    "project_id": "atlas-app-b0a50",
+    "storage_bucket": "atlas-app-b0a50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204014137360:android:6be9a65a1d5e9dbc",
+        "android_client_info": {
+          "package_name": "com.crossfit.atlasapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204014137360-hm24pfgralo6dqslkqcbfjsfqc4m60rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwjvV0111NCjYepupXKL0SMOgzMsZYKKs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
